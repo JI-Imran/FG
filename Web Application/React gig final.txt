@@ -1,0 +1,12 @@
+I will be front end web developer in react js
+
+Basic: Basic Landing Page 1 Page in React + Upto 6 Sections + Responsive Design
+Standard: Business website 3 Pages in React + Responsive Design
+Premium: Premium website 5 Pages in React + (including popups) + Responsive Design
+
+Tik: 
+1 page
+Design customization
+Content upload
+Responsive design
+Source code
